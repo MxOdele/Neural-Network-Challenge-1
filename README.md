@@ -1,7 +1,7 @@
 # Neural-Network-Challenge-1
 
 <div align='center'>
-    <img, src='https://images.pexels.com/photos/2292837/pexels-photo-2292837.jpeg' height='350', title='A graduate holding out their diploma (image courtesy of Pexels)', alt='An image of a graduate blurred out in the background, while golding a rolled up diploma in the foreground' />
+    <img src='https://images.pexels.com/photos/2292837/pexels-photo-2292837.jpeg' height='350', title='A graduate holding out their diploma (image courtesy of Pexels)', alt='An image of a graduate blurred out in the background, while golding a rolled up diploma in the foreground' />
 
 *Student Loans with Deep Learning*[^1]
 
